@@ -8,7 +8,6 @@ After installing Lampp/Xampp in linux go to htdoc folder
 5. rm -fr ZendSkeletonApplication/
 6. curl -s https://getcomposer.org/installer | php --
 7. composer require zendframework/zendframework
-8. composer require zendframework/zendframework
 
 Incase if you see composer not part of command or somrtimes it will prompt you for installing/downloading composer
 Go ahead and say Y to download/install OR mannually install composer inside folder ruhi
