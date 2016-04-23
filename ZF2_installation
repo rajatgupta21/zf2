@@ -1,0 +1,14 @@
+
+After installing Lampp/Xampp in linux go to htdoc folder
+
+1. mkdir ruhi
+2. cd ruhi
+3. git clone git://github.com/zendframework/ZendSkeletonApplication.git
+4. mv ZendSkeletonApplication/* .
+5. rm -fr ZendSkeletonApplication/
+6. curl -s https://getcomposer.org/installer | php --
+7. composer require zendframework/zendframework
+8. composer require zendframework/zendframework
+
+Incase if you see composer not part of command or somrtimes it will prompt you for installing/downloading composer
+Go ahead and say Y to download/install OR mannually install composer inside folder ruhi
