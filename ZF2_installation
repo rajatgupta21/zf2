@@ -11,3 +11,5 @@ After installing Lampp/Xampp in linux go to htdoc folder
 
 Incase if you see composer not part of command or somrtimes it will prompt you for installing/downloading composer
 Go ahead and say Y to download/install OR mannually install composer inside folder ruhi
+
+Sometimes in Fedora you might want to install SSL using sudo yum install SSL
