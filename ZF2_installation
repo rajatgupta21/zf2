@@ -9,6 +9,10 @@ After installing Lampp/Xampp in linux go to htdoc folder
 6. curl -s https://getcomposer.org/installer | php --
 7. composer require zendframework/zendframework
 
+OR
+
+7. php composer.phar install
+
 Incase if you see composer not part of command or somrtimes it will prompt you for installing/downloading composer
 Go ahead and say Y to download/install OR mannually install composer inside folder ruhi
 
